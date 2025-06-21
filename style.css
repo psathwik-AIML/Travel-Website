@@ -55,7 +55,7 @@ li:hover{
 .mid{
     margin:30px;
     padding:40px;
-    background-image:url("/images/Background.jpg");
+    background-image:url("images/Background.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     display:flex;
